@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveLaid/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveLaid/bamazon/issues"
+  },
+  "homepage": "https://github.com/DaveLaid/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.2.2",
+    "mysql": "^2.14.1"
+  }
+}
